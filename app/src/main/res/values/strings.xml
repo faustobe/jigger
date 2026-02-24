@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jigger</string>
+
+    <!-- Navigation -->
+    <string name="shift">Turno</string>
+    <string name="inventory">Inventario</string>
+    <string name="history">Storico</string>
+
+    <!-- Shift Screen -->
+    <string name="no_active_shift">Nessun turno attivo</string>
+    <string name="start_shift">Inizia Turno</string>
+    <string name="end_shift">Termina Turno</string>
+    <string name="shift_active">TURNO ATTIVO</string>
+    <string name="shift_started_placeholder">Inizio: --:--</string>
+    <string name="shift_started_format">Inizio: %s</string>
+    <string name="duration_placeholder">Durata: 0h 0m</string>
+    <string name="duration_format">Durata: %1$dh %2$dm</string>
+    <string name="total_cocktails_zero">Totale cocktail: 0</string>
+    <string name="total_cocktails_format">Totale cocktail: %d</string>
+    <string name="quick_access">Serviti</string>
+    <string name="all_cocktails">Tutti i Cocktail</string>
+    <string name="search_cocktails">Cerca cocktail</string>
+
+    <!-- Summary Screen -->
+    <string name="shift_summary">Riepilogo Turno</string>
+    <string name="shift_completed">Turno Completato</string>
+    <string name="start_time">Inizio</string>
+    <string name="end_time">Fine</string>
+    <string name="duration">Durata</string>
+    <string name="cocktails_served">cocktail serviti</string>
+    <string name="breakdown_by_cocktail">Dettaglio per cocktail</string>
+    <string name="done">Fatto</string>
+
+    <!-- Dialogs -->
+    <string name="end_shift_title">Terminare il turno?</string>
+    <string name="end_shift_message">Sei sicuro di voler terminare il turno corrente?</string>
+    <string name="remove_cocktail_title">Rimuovi cocktail</string>
+    <string name="remove_cocktail_message">Rimuovere un %s dal conteggio?</string>
+    <string name="remove">Rimuovi</string>
+    <string name="cancel">Annulla</string>
+
+    <!-- Messages -->
+    <string name="feature_coming_soon">Funzionalità in arrivo</string>
+    <string name="coming_in_phase_2">Disponibile nella Fase 2</string>
+    <string name="coming_in_phase_3">Disponibile nella Fase 3</string>
+
+    <!-- Search -->
+    <string name="no_results">Nessun risultato</string>
+    <string name="search_hint">Digita per cercare...</string>
+
+    <!-- Custom Cocktail -->
+    <string name="add_custom_cocktail">Aggiungi Cocktail Custom</string>
+    <string name="cocktail_name">Nome cocktail</string>
+    <string name="category">Categoria</string>
+    <string name="glass_type">Tipo di bicchiere</string>
+    <string name="save">Salva</string>
+    <string name="cocktail_added">Cocktail aggiunto!</string>
+    <string name="add_custom">+ Aggiungi custom</string>
+
+    <!-- Categories -->
+    <string name="category_custom">Custom</string>
+    <string name="category_signature">Signature</string>
+    <string name="category_classic">Classic</string>
+    <string name="category_tiki">Tiki</string>
+    <string name="category_aperitivo">Aperitivo</string>
+
+    <!-- Glass Types -->
+    <string name="glass_rocks">Old Fashioned / Rocks</string>
+    <string name="glass_highball">Highball</string>
+    <string name="glass_coupe">Coupe</string>
+    <string name="glass_martini">Martini</string>
+    <string name="glass_flute">Flute</string>
+    <string name="glass_collins">Collins</string>
+    <string name="glass_hurricane">Hurricane</string>
+    <string name="glass_tiki">Tiki Mug</string>
+    <string name="glass_copper_mug">Copper Mug</string>
+    <string name="glass_nick_nora">Nick &amp; Nora</string>
+    <string name="glass_wine">Wine Glass</string>
+
+    <!-- Inventory Filters -->
+    <string name="filter_all">Tutti</string>
+    <string name="filter_favorites">Preferiti</string>
+    <string name="filter_iba">IBA</string>
+    <string name="filter_classic">Classic</string>
+    <string name="filter_custom">Custom</string>
+    <string name="no_cocktails_found">Nessun cocktail trovato</string>
+    <string name="custom_cocktail">Cocktail custom</string>
+    <string name="favorite">Preferito</string>
+    <string name="added_to_favorites">Aggiunto ai preferiti</string>
+    <string name="removed_from_favorites">Rimosso dai preferiti</string>
+
+    <!-- Edit/Delete Cocktail -->
+    <string name="edit_cocktail">Modifica cocktail</string>
+    <string name="delete_cocktail">Elimina cocktail</string>
+    <string name="delete_cocktail_message">Eliminare \"%s\"? Questa azione non può essere annullata.</string>
+    <string name="delete">Elimina</string>
+    <string name="cocktail_deleted">Cocktail eliminato</string>
+    <string name="cocktail_updated">Cocktail aggiornato</string>
+
+    <!-- History -->
+    <string name="total_shifts">Turni</string>
+    <string name="total_cocktails_served">Cocktail</string>
+    <string name="avg_per_shift">Media</string>
+    <string name="recent_shifts">Turni recenti</string>
+    <string name="no_shifts_yet">Nessun turno registrato</string>
+    <string name="cocktails_short">cocktail</string>
+    <string name="shift_in_progress">In corso</string>
+
+    <!-- Errors -->
+    <string name="error_no_shift">Devi prima iniziare un turno</string>
+    <string name="error_shift_exists">Esiste già un turno attivo</string>
+    <string name="error_name_required">Inserisci un nome</string>
+</resources>

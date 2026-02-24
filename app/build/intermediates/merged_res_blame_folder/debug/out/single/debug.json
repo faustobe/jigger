@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_inventory.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_inventory.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_item_cocktail_card.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/item_cocktail_card.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_item_cocktail_simple.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/item_cocktail_simple.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_activity_shift.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/activity_shift.xml"
+    },
+    {
+        "merged": "it.faustobe.jigger.app-merged_res-36:/layout_item_shift_history.xml.flat",
+        "source": "it.faustobe.jigger.app-main-38:/layout/item_shift_history.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_shift.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_shift.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_add.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_circle_green.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/circle_green.xml"
+    },
+    {
+        "merged": "it.faustobe.jigger.app-merged_res-36:/drawable_bg_date_circle.xml.flat",
+        "source": "it.faustobe.jigger.app-main-38:/drawable/bg_date_circle.xml"
+    },
+    {
+        "merged": "it.faustobe.jigger.app-merged_res-36:/layout_activity_history.xml.flat",
+        "source": "it.faustobe.jigger.app-main-38:/layout/activity_history.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/menu_menu_shift.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/menu/menu_shift.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_activity_shift_summary.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/activity_shift_summary.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_item_inventory_cocktail.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/item_inventory_cocktail.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_search.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_favorite.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_favorite.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_item_cocktail_search.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/item_cocktail_search.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_custom_badge.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_custom_badge.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/menu_menu_inventory.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/menu/menu_inventory.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_activity_inventory.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/activity_inventory.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_history.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_history.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_star.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_item_cocktail_breakdown.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/item_cocktail_breakdown.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/drawable_ic_favorite_border.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/drawable/ic_favorite_border.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_activity_history.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/activity_history.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_dialog_search_cocktail.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/dialog_search_cocktail.xml"
+    },
+    {
+        "merged": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-merged_res-36:/layout_dialog_add_custom_cocktail.xml.flat",
+        "source": "/home/bapu/.gradle/daemon/8.2/it.faustobe.jigger.app-main-38:/layout/dialog_add_custom_cocktail.xml"
+    }
+]
